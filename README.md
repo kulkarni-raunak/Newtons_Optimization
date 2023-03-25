@@ -26,4 +26,4 @@ $$
 Straight forward just using numpy
 
 ## C++ implementation
-Compile using the flags ´´-static-libgcc´´ and ´´-static-libstdc++´´ for the std::vectors
+Compile using the flags ``-static-libgcc`` and ``-static-libstdc++`` for the std::vectors
