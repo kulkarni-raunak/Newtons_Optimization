@@ -21,3 +21,9 @@ F\left(x_{1}, x_{2}, x_{3}\right)=\left(\begin{array}{c}
 e^{-x_{3}}+x_{3} \cdot e^{1}
 \end{array}\right)
 $$
+
+## Python implementation
+Straight forward just using numpy
+
+## C++ implementation
+Compile using the flags ´´-static-libgcc´´ and ´´-static-libstdc++´´ for the std::vectors
